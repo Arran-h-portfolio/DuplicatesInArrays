@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DuplicatesInArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a83a900f90a51d25a9e54c79714ecca00a7ed33")]
 [assembly: System.Reflection.AssemblyProductAttribute("DuplicatesInArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DuplicatesInArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
